@@ -1,2 +1,2 @@
-# WebDevLAB3Project
-ICS2607- Web Dev activity: Lab 3
+<h1>LAB Activity 3 for Web Dev Course</h1>
+<h2>Coffee Website</h2>
