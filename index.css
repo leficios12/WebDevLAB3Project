@@ -148,6 +148,9 @@ nav.navContainer a.active {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
+#viewMenuAnchor {
+  text-decoration: none;
+}
 #viewMenuBtn:hover {
   background-color: #414d53;
 }
